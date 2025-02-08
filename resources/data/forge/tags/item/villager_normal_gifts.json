@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_horse_armor",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_boots",
+    "minecraft:golden_apple",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_leggings",
+    "minecraft:leather_horse_armor",
+    "minecraft:golden_carrot",
+    "minecraft:saddle",
+    "minecraft:friend_pottery_sherd",
+    "minecraft:heart_pottery_sherd",
+    "minecraft:emerald_block",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond",
+    "minecraft:iron_axe",
+    "minecraft:gold_block",
+    "minecraft:cake",
+    "minecraft:mushroom_stew",
+    "minecraft:rabbit_stew",
+    "minecraft:iron_hoe"
+  ]
+}

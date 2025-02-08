@@ -1,0 +1,29 @@
+{
+  "deed.box.open": {
+    "subtitle": "subtitles.deed.box.open",
+    "sounds": [
+      {
+        "name": "takesavillage:bounty.open",
+        "stream": false
+      }
+    ]
+  },
+  "deed.box.close": {
+    "subtitle": "subtitles.deed.box.close",
+    "sounds": [
+      {
+        "name": "takesavillage:bounty.close",
+        "stream": false
+      }
+    ]
+  },
+  "deed.box.deposit": {
+    "subtitle": "subtitles.deed.box.deposit",
+    "sounds": [
+      {
+        "name": "takesavillage:bounty.deposit",
+        "stream": false
+      }
+    ]
+  }
+}

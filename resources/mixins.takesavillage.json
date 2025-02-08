@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "net.mcreator.takesavillage.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}

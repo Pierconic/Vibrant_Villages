@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "takesavillage:block/deed_box"
+    },
+    "blockstate=1": {
+      "model": "takesavillage:block/deed_box_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "takesavillage:block/deed_box_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "takesavillage:block/deed_box_states_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "takesavillage:block/deed_box_states_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "takesavillage:block/deed_box_states_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "takesavillage:block/deed_box_states_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "takesavillage:block/deed_box_states_blockstate_6"
+    },
+    "blockstate=8": {
+      "model": "takesavillage:block/deed_box_states_blockstate_7"
+    },
+    "blockstate=9": {
+      "model": "takesavillage:block/deed_box_states_blockstate_8"
+    }
+  }
+}

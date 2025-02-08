@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "takesavillage:block/chiseled_copper",
+    "up": "takesavillage:block/deposit_box_top_active",
+    "north": "takesavillage:block/deposit_box_active_mostlyopen",
+    "east": "takesavillage:block/deposit_box_side_active",
+    "south": "takesavillage:block/deposit_box_active_mostlyopen",
+    "west": "takesavillage:block/deposit_box_back_active",
+    "particle": "takesavillage:block/chiseled_copper"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:floral_decor",
+    "minecraft:bookshelf",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:decorated_pot",
+    "minecraft:lantern"
+  ]
+}

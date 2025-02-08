@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:emerald",
+    "minecraft:cookie",
+    "minecraft:pumpkin_pie",
+    "minecraft:bread",
+    "minecraft:copper_ingot",
+    "minecraft:experience_bottle",
+    "minecraft:book",
+    "minecraft:cooked_beef",
+    "minecraft:honeycomb",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:amethyst_shard"
+  ]
+}
