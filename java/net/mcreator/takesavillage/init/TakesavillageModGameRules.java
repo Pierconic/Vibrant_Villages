@@ -17,6 +17,7 @@ public class TakesavillageModGameRules {
 	public static GameRules.Key<GameRules.IntegerValue> VILLAGER_GIFT_INTERVAL;
 	public static GameRules.Key<GameRules.IntegerValue> VILLAGER_SUMMONING_INTERVAL;
 	public static GameRules.Key<GameRules.BooleanValue> DO_VILLAGER_SUMMONING;
+	public static GameRules.Key<GameRules.BooleanValue> VILLAGER_NAMING;
 
 	@SubscribeEvent
 	public static void registerGameRules(FMLCommonSetupEvent event) {
@@ -25,5 +26,6 @@ public class TakesavillageModGameRules {
 		VILLAGER_GIFT_INTERVAL = GameRules.register("villagerGiftInterval", GameRules.Category.MOBS, GameRules.IntegerValue.create(20));
 		VILLAGER_SUMMONING_INTERVAL = GameRules.register("villagerSummoningInterval", GameRules.Category.MOBS, GameRules.IntegerValue.create(20));
 		DO_VILLAGER_SUMMONING = GameRules.register("doVillagerSummoning", GameRules.Category.MISC, GameRules.BooleanValue.create(true));
+		VILLAGER_NAMING = GameRules.register("villagerNaming", GameRules.Category.MOBS, GameRules.BooleanValue.create(true));
 	}
 }
